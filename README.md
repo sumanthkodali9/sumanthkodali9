@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/150" width="150" alt="Sumanth Sai Kodali" style="border-radius:50%"/>
+<img src="https://raw.githubusercontent.com/sumanthkodali9/sumanthkodali9/main/profile.jpeg" width="150" alt="Sumanth Sai Kodali" style="border-radius:50%"/>
 
 # Sumanth Sai Kodali
 
