@@ -82,17 +82,7 @@ Data Analyst with 3+ years of hands-on experience across end-to-end analytics â€
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-![Sumanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumanthkodali9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanthkodali9&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthkodali9&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
