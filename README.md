@@ -91,7 +91,7 @@ Data Analyst with 3+ years of hands-on experience across end-to-end analytics â€
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-sumanthkodali9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumanthkodali9@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B1%20630--364--6225-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+16303646225)
+[![Phone](https://img.shields.io/badge/Message%20on%20WhatsApp-%2B1%20630--364--6225-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/16303646225?text=Hello%20I%20am%20interested%20in%20your%20profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumanth%20Sai%20Kodali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumanthkodali)
 [![Location](https://img.shields.io/badge/Chicago%2C%20IL-USA-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
