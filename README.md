@@ -4,7 +4,7 @@
 
 # Sumanth Sai Kodali
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+3%2B+Years+Experience;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Complex+Data+into+Business+Decisions;BI+%26+Reporting+%7C+ETL+%7C+EDA+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+5%2B+Years+Experience;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Complex+Data+into+Business+Decisions;BI+%26+Reporting+%7C+ETL+%7C+EDA+Specialist)](https://git.io/typing-svg)
 
 </div>
 
