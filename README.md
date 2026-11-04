@@ -12,13 +12,13 @@
 
 ## Professional Summary
 
-Data Engineer with 5+ years of hands-on experience across end-to-end analytics — from raw data extraction to executive-level reporting. Delivers production-grade dashboards, automated pipelines, and statistical insights that directly inform strategic business decisions. Currently driving analytics operations at Midwest Data Solutions LLC, Chicago.
+Data Engineer with 5+ years of hands-on experience across end-to-end analytics — from raw data extraction to executive-level reporting. Delivers production-grade dashboards, automated pipelines, and statistical insights that directly inform strategic business decisions. Currently driving analytics operations at Modine .
 
 ---
 
 ## About Me
 
-- 📍 Based in **Chicago, IL** — Data Engineer at Midwest Data Solutions LLC
+- 📍 Based in **Chicago, IL** — Data Engineer at Modine
 - 🎓 **M.S. Computer Science** — Roosevelt University, Chicago (2024–2025)
 - 📊 Builds multi-page **Power BI & Tableau dashboards** used in executive decision-making
 - 🔍 Expert in **EDA, trend analysis, variance analysis**, and root cause identification
